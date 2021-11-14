@@ -1,0 +1,9 @@
+package-lock.json
+vendor
+public/js
+public/css
+public/img
+storage
+public/mix-manifest.json
+.env
+.data
